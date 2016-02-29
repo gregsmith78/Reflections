@@ -1,0 +1,8 @@
+February 29.2016
+Today we learned about binary code conversion to hexadecimal as well as octal conversion.
+We learned about the general basics of what makes up a computer i.e. it's input devices,
+output devices, and the cpu--the central processing unit.
+
+We also learned about gitHub and it's core commands.  Such commands would be the git add,
+git commit, git pull, and git push...and the git clone.  We also learned how to fix merge
+conflicts.
