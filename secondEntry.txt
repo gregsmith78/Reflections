@@ -1,0 +1,11 @@
+March 1.2016
+Today we started the day off with a scrum.  Scrums are essentially a quick
+meeting with the instructional staff to discuss what goals or tasks we have
+learned the previous day and what our goals are for the day.  The purpose of
+these meetings are to set goals and think about how to achieve them.
+
+We also learned about networking technologies.  We briefly went into NAT-network
+address translation, TCP, UDP, POP3, SMTP, as well as several others.  We talked
+about ports and subnets.
+
+We also learned about HTML and CSS.
