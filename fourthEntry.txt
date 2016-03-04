@@ -1,0 +1,6 @@
+March 3.2016
+Today we learned about Java.  We covered the fundamentals which would include
+flow control with if/else statements and switch statements.  We had a couple
+tasks that included determining an employee's wage for the week as well as
+their overtime pay.  For our next task we needed to create an adventure story
+applying what we have learned with flow control.
