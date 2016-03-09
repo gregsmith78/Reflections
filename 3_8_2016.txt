@@ -1,0 +1,8 @@
+March 8.2016
+Today we worked on our Robot game. The goal of the project was to make
+multiple classes and have them inherit from its parent or super class.
+We also had to think of ways to condense our programs using methods to
+streamline our code.
+
+We also talked about the differences between arrays and array lists.  
+
