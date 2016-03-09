@@ -1,0 +1,7 @@
+March 9.2016
+Today we worked on our Dice Game.  Some of the struggles we are facing
+are basically looping.  We are trying to get our game to repeat a set of
+methods that we created i.e. until our array is full.  The array becomes
+full when a character is built. A character is complete once the player
+achieves a head, eyes, ears, body, arms, and legs. Once that is done the
+game is over. 
