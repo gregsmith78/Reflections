@@ -1,0 +1,7 @@
+March 10.2016
+We submitted our Dice Game project today.  We were able to have the functionality
+of continual play, but were not able to figure out how to end the game as well as
+have multi-player functionality.
+
+We were assigned Happy Numbers and to create the Nim game.  Seems like two big beasts
+of a project!
