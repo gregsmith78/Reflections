@@ -1,0 +1,8 @@
+March 12.2016
+Basically did review today.  Worked on problems from the exam yesterday.
+Felt I did alright.  The point of the exam was to gauge on where every-
+body is at.  It definitely made me realize that I need more work on in-
+heritance and string manipulation.
+
+We also briefly went over visual studio because we will be starting C#
+tomorrow.
