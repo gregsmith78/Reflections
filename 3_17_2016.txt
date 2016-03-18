@@ -1,0 +1,6 @@
+March 17.2016
+Today we reviewed Arrays and Lists for C#.  We were assigned to 
+finish our Bank project as well re-do our Robot project involving
+such requirements as in heritance, loops - while, foreach, and
+lists to reinforce our understanding of OOP...object oriented
+programming.
