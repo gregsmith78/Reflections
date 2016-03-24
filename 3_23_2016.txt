@@ -1,0 +1,11 @@
+March 23.2016
+Today we worked on problems dealing with 2D arrays that dealt with nested
+for loops, while loops that checked against an array verifying whether or not
+an element already existed or not and destructors.  These tasks are very difficult
+but are good practice. These tasks made it very obvious that I need to under-
+stand the logic behind it all...
+
+Also got feedback from my Robot project.  Actually did better than I expected
+but there is always always room for improvement.  OOP is a love/hate relation-
+ship.  There are a lot of cool things you can do with it but actually learning
+how is the difficult part.  Difficult but so necessary.

@@ -1,0 +1,9 @@
+March 24.2016
+Started our big project Lemonade Stand. Got a method to return random 
+weather.  Now I am trying to get that method to run in my day class since
+each day has weather.  Haven't had any success yet.  Frustrating!
+
+Once I get that figured out I will move onto to creating a customer object
+which will need to have the probability of being thirsty in relation to the
+weather.  ie...if its hot and sunny their chances of being thirsty and 
+purchasing some lemonade will be higher, lower if it cooler outside.
