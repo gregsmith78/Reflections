@@ -1,0 +1,5 @@
+March 25.2016
+Made very little progress today.  I did figure out a method to keep track of
+a customer's purchase, but then decided that it's not a necessary requirement
+to implement at this phase in the project.  I will continue to work over the
+weekend to hopefully figure the inventory concept.
