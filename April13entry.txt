@@ -1,0 +1,5 @@
+April 13.2016
+
+Working on some mini projects this week to reinforce concepts of inheritance, interface
+abstract classes, custom iterators, and enumerations.  Slowing making strides to improve-
+ments, but still feel far from being comfortable.  Will keep practicing.
